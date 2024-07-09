@@ -1,8 +1,11 @@
 ## Hello, I'm SUSH
 
-[![SUSH's Stats](https://github-readme-stats.vercel.app/api?username=sushat4692&theme=dark&show_icons=true)](https://metrics.lecoq.io/sushat4692#gh-dark-mode-only)
-[![SUSH's Stats](https://github-readme-stats.vercel.app/api?username=sushat4692&show_icons=true)](https://metrics.lecoq.io/sushat4692#gh-light-mode-only)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sushat4692&theme=monokai" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushat4692&layout=compact&langs_count=8&card_width=320&theme=monokai" />
+</a>
 
 <!--
 **sushat4692/sushat4692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
