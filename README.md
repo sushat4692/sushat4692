@@ -28,6 +28,8 @@ const sush = new Person({
 [![Static Badge](https://img.shields.io/badge/Nuxt.js-%2300DC82?style=flat-square&logo=nuxtdotjs&logoColor=%23ffffff)](https://nuxt.com/)
 [![Static Badge](https://img.shields.io/badge/Astro-%23BC52EE?style=flat-square&logo=astro&logoColor=%23ffffff)](https://astro.build/)
 
+[![Static Badge](https://img.shields.io/badge/Hono-%23e36002?style=flat-square&logo=hono&logoColor=%23ffffff)](https://hono.dev/)
+[![Static Badge](https://img.shields.io/badge/Apollo-%23ffeadb?style=flat-square&logo=apollographql&logoColor=%2315252d)](https://www.apollographql.com/)
 [![Static Badge](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=%23ffffff)](https://expressjs.com/)
 [![Static Badge](https://img.shields.io/badge/Fastify-%23000000?style=flat-square&logo=fastify&logoColor=%23ffffff)](https://fastify.dev/)
 [![Static Badge](https://img.shields.io/badge/NestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=%23ffffff)](https://nestjs.com/)
